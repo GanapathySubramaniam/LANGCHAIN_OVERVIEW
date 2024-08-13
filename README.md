@@ -68,13 +68,6 @@ Welcome to the Langchain RAG Model project! This cutting-edge system combines th
 - 🎭 Creative writing assistants with factual grounding
 - 🔬 Research aids for literature review and hypothesis generation
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🙏 Acknowledgements
 
