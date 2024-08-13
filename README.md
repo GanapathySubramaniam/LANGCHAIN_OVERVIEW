@@ -27,8 +27,7 @@ Welcome to the Langchain RAG Model project! This cutting-edge system combines th
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/langchain-rag-model.git
-   cd langchain-rag-model
+   gh repo clone GanapathySubramaniam/LANGCHAIN_OVERVIEW
    ```
 
 2. **Set up a virtual environment**
