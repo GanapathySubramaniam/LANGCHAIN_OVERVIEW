@@ -73,7 +73,6 @@ Welcome to the Langchain RAG Model project! This cutting-edge system combines th
 
 - OpenAI for their amazing GPT models
 - The Langchain community for their excellent tools and documentation
-- All contributors and supporters of this project
 
 ---
 
