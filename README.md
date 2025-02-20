@@ -1,6 +1,17 @@
 # 🚀 Langchain RAG Model: Your AI-Powered Question Answering System
 
+```
 
+  _                            _           _         _____            _____   __  __           _      _ 
+ | |                          | |         (_)       |  __ \     /\   / ____| |  \/  |         | |    | |
+ | |     __ _ _ __   __ _  ___| |__   __ _ _ _ __   | |__) |   /  \ | |  __  | \  / | ___   __| | ___| |
+ | |    / _` | '_ \ / _` |/ __| '_ \ / _` | | '_ \  |  _  /   / /\ \| | |_ | | |\/| |/ _ \ / _` |/ _ \ |
+ | |___| (_| | | | | (_| | (__| | | | (_| | | | | | | | \ \  / ____ \ |__| | | |  | | (_) | (_| |  __/ |
+ |______\__,_|_| |_|\__, |\___|_| |_|\__,_|_|_| |_| |_|  \_\/_/    \_\_____| |_|  |_|\___/ \__,_|\___|_|
+                     __/ |                                                                              
+                    |___/                                                                               
+
+```
 ## 🌟 Introduction
 
 Welcome to the Langchain RAG Model project! This cutting-edge system combines the power of large language models with precise information retrieval to create a smart, context-aware question answering tool. Whether you're a data scientist, AI enthusiast, or just curious about the latest in AI technology, this project has something exciting for you!
